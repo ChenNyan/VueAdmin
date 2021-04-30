@@ -1,5 +1,5 @@
 # vueadmin
-
+该项目为使用Vue开发的电商后台管理系统，使用了Element-ui进行开发，需配合VueAdminServer项目启动
 ## Project setup
 ```
 npm install
